@@ -4,7 +4,7 @@
 [![SharedIt](https://img.shields.io/badge/SharedIt-rdcu.be/dnwMc-darkyellow.svg)](https://rdcu.be/dnwMc)
 [![arXiv](https://img.shields.io/badge/arXiv-xxxx-darkyellow.svg)](https://arxiv.org/abs/xxxx)
 
-By [Shouyue Liu](https://github.com/iAaronLau), Jinkui Hao, Yanwu Xu, Huazhu Fu, Xinyu Guo, Jiang Liu, Yalin Zheng, Yonghuai Liu, Jiong Zhang, and Yitian Zhao
+By [Shouyue Liu](https://github.com/iAaronLau), [Jinkui Hao](https://github.com/JinkuiH), [Yanwu Xu](https://scholar.google.com/citations?user=0jP8f7sAAAAJ&hl=zh-CN), [Huazhu Fu](https://scholar.google.com/citations?user=jCvUBYMAAAAJ&hl=zh-CN), [Xinyu Guo](https://github.com/Mr-Guowang), [Jiang Liu](https://scholar.google.com/citations?user=NHt3fUcAAAAJ&hl=zh-CN), [Yalin Zheng](https://scholar.google.com/citations?user=nKCHXTAAAAAJ&hl=zh-CN), [Yonghuai Liu](https://scholar.google.com/citations?user=8J-qVlQAAAAJ&hl=zh-CN), [Jiong Zhang](https://scholar.google.com/citations?user=UJKsxKkAAAAJ&hl=zh-CN), and [Yitian Zhao](https://scholar.google.com/citations?user=NHt3fUcAAAAJ&hl=zh-CN)
 
 ![image](https://github.com/iAaronLau/Polar-Net-Pytorch/blob/master/images/figflowchart5.png "Flowchart")
 
