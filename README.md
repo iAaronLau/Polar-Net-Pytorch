@@ -6,7 +6,9 @@
 
 By [Shouyue Liu](https://github.com/iAaronLau), Jinkui Hao, Yanwu Xu, Huazhu Fu, Xinyu Guo, Jiang Liu, Yalin Zheng, Yonghuai Liu, Jiong Zhang, and Yitian Zhao
 
-![image](https://github.com/iAaronLau/Polar-Net-Pytorch/master/images/figflowchart5.png "Flowchart")
+![image](https://github.com/iAaronLau/Polar-Net-Pytorch/blob/master/images/figflowchart5.png "Flowchart")
+
+
 
 ### Contents
 1. [Requirements](#Requirements)
