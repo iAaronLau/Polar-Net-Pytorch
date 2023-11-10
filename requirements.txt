@@ -1,0 +1,241 @@
+absl-py @ file:///croot/absl-py_1666362940888/work
+accimage @ file:///home/conda/feedstock_root/build_artifacts/accimage_1636476528556/work
+addict==2.4.0
+aiohttp @ file:///croot/aiohttp_1670009560265/work
+aiosignal==1.3.1
+anyio==3.6.2
+apex @ file:///media/imed/HDD6T2/personal/lsy/remote_nas/apex
+appdirs==1.4.4
+aqtp==0.0.10
+arrow==1.2.3
+asgiref==3.6.0
+astunparse==1.6.3
+async-timeout @ file:///opt/conda/conda-bld/async-timeout_1664876359750/work
+attrs @ file:///croot/attrs_1668696182826/work
+beautifulsoup4==4.11.1
+blessed==1.19.1
+blinker==1.4
+brotlipy==0.7.0
+cached-property==1.5.2
+cachetools==5.2.0
+certifi==2022.9.24
+cffi @ file:///tmp/abs_98z5h56wf8/croots/recipe/cffi_1659598650955/work
+cfgv==3.3.1
+charset-normalizer==2.0.12
+chex==0.1.5
+click==8.1.3
+cloudpickle==2.1.0
+clu==0.0.7
+colorama==0.4.6
+commonmark==0.9.1
+contextlib2==21.6.0
+croniter==1.3.8
+cryptography @ file:///croot/cryptography_1677533068310/work
+cycler==0.10.0
+cytoolz==0.11.2
+dacite==1.6.0
+dask==2022.6.0
+deepdiff==6.2.3
+dill==0.3.6
+distlib==0.3.4
+Django==4.1.7
+dm-tree==0.1.7
+dnspython==2.3.0
+efficientnet-pytorch==0.7.1
+einops==0.4.1
+email-validator==1.3.0
+etils==0.8.0
+fastapi==0.89.1
+filelock==3.7.1
+flake8==4.0.1
+flatbuffers==22.9.24
+flax==0.6.1
+flaxformer @ git+https://github.com/google/flaxformer@2ed752f5356452afdce34db2602bfdd1f2cb4b96
+fonttools==4.33.3
+frozenlist @ file:///croot/frozenlist_1670004507010/work
+fsspec==2022.5.0
+gast==0.4.0
+google-auth==2.9.1
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+googleapis-common-protos==1.56.4
+grad-cam==1.3.9
+greenlet==1.1.2
+grpcio==1.48.0
+h11==0.14.0
+h5py==3.7.0
+httpcore==0.16.3
+httptools==0.5.0
+httpx==0.23.3
+identify==2.5.1
+idna @ file:///croot/idna_1666125576474/work
+imagecodecs==2022.2.22
+imageio==2.19.3
+importlib-metadata @ file:///croot/importlib-metadata_1678997070253/work
+importlib-resources==5.10.0
+info-nce-pytorch @ file:///media/imed/HDD6T2/personal/lsy/remote_nas/OCTA_AD_CLS/info-nce-pytorch
+inquirer==3.1.2
+isort==5.10.1
+itsdangerous==2.1.2
+jax==0.3.23
+jaxlib==0.3.22+cuda11.cudnn82
+Jinja2==3.1.2
+joblib==1.1.0
+jsonpatch==1.32
+jsonpointer==2.3
+keras==2.11.0
+Keras-Preprocessing==1.1.2
+kiwisolver @ file:///tmp/build/80754af9/kiwisolver_1612281846643/work
+libclang==14.0.6
+lightning==1.8.6
+lightning-cloud==0.5.16
+lightning-utilities==0.7.1
+locket==1.0.0
+Markdown @ file:///croot/markdown_1671541909495/work
+MarkupSafe @ file:///opt/conda/conda-bld/markupsafe_1654597864307/work
+matplotlib @ file:///tmp/build/80754af9/matplotlib-suite_1613407855456/work
+mccabe==0.6.1
+mkl-fft==1.3.0
+mkl-random @ file:///tmp/build/80754af9/mkl_random_1626186066731/work
+mkl-service==2.4.0
+ml-collections==0.1.1
+mmcls==0.25.0
+mmcv-full==1.7.1
+model-index==0.1.11
+mpmath==1.3.0
+msgpack==1.0.4
+multidict==6.0.4
+munkres==1.1.4
+mypy-extensions==0.4.3
+networkx==2.8.4
+nibabel==4.0.1
+nodeenv==1.6.0
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1626264704411/work
+nvidia-cublas-cu11==11.10.3.66
+nvidia-cublas-cu12==12.1.3.1
+nvidia-cuda-cupti-cu12==12.1.105
+nvidia-cuda-nvrtc-cu11==11.7.99
+nvidia-cuda-nvrtc-cu12==12.1.105
+nvidia-cuda-runtime-cu11==11.7.99
+nvidia-cuda-runtime-cu12==12.1.105
+nvidia-cudnn-cu11==8.5.0.96
+nvidia-cudnn-cu12==8.9.2.26
+nvidia-cufft-cu12==11.0.2.54
+nvidia-curand-cu12==10.3.2.106
+nvidia-cusolver-cu12==11.4.5.107
+nvidia-cusparse-cu12==12.1.0.106
+nvidia-nccl-cu12==2.18.1
+nvidia-nvjitlink-cu12==12.2.140
+nvidia-nvtx-cu12==12.1.105
+oauthlib @ file:///croot/oauthlib_1679489621486/work
+olefile==0.46
+opencv-python==4.5.3.56
+openmim==0.3.6
+opt-einsum==3.3.0
+optax==0.1.3
+ordered-set==4.1.0
+orjson==3.8.5
+packaging==21.3
+pandas==1.4.3
+partd==1.2.0
+pathspec==0.9.0
+Pillow==9.1.1
+platformdirs==2.5.2
+pre-commit==2.19.0
+progressbar==2.5
+promise==2.3
+protobuf==3.19.6
+psutil==5.9.4
+pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
+pyasn1-modules==0.2.8
+pycodestyle==2.8.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic==1.10.4
+pyflakes==2.4.0
+Pygments==2.13.0
+PyJWT==2.6.0
+PyMySQL==1.0.2
+pyOpenSSL @ file:///croot/pyopenssl_1677607685877/work
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-dotenv==0.21.0
+python-editor==1.0.4
+python-multipart==0.0.5
+pytorch-lightning==1.9.3
+pytorch-pretrained-vit==0.0.7
+pytorch-wavelets @ file:///media/imed/HDD6T2/personal/lsy/remote_nas/OCTA_AD_CLS/pytorch_wavelets
+pytz==2022.1
+PyWavelets==1.3.0
+PyYAML==6.0
+pyzmq==25.0.1
+readchar==4.0.3
+regex==2022.6.2
+requests @ file:///croot/requests_1678709721434/work
+requests-oauthlib==1.3.1
+rfc3986==1.5.0
+rich==12.6.0
+rsa==4.9
+scikit-image==0.19.3
+scikit-learn==1.1.1
+scipy==1.8.1
+seaborn==0.11.2
+sip==4.19.13
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+sniffio==1.3.0
+soupsieve==2.3.2.post1
+SQLAlchemy==1.4.38
+sqlparse==0.4.3
+starlette==0.22.0
+starsessions==1.3.0
+sympy==1.12
+tabulate==0.9.0
+tensorboard==2.11.2
+tensorboard-data-server @ file:///croot/tensorboard-data-server_1670853588388/work/tensorboard_data_server-0.6.1-py3-none-manylinux2010_x86_64.whl
+tensorboard-plugin-wit @ file:///home/builder/tkoch/workspace/tensorflow/tensorboard-plugin-wit_1658918494740/work/tensorboard_plugin_wit-1.8.1-py3-none-any.whl
+tensorboardX==2.5.1
+tensorflow==2.11.0
+tensorflow-cpu==2.10.0
+tensorflow-datasets==4.7.0
+tensorflow-estimator==2.11.0
+tensorflow-hub==0.12.0
+tensorflow-io-gcs-filesystem==0.27.0
+tensorflow-metadata==1.10.0
+tensorflow-probability==0.18.0
+tensorflow-text==2.10.0
+termcolor==2.0.1
+threadpoolctl==3.1.0
+tifffile==2022.5.4
+timm==0.6.7
+toml==0.10.2
+tomli==2.0.1
+toolz==0.11.2
+torch==2.1.0
+torchaudio==0.9.0a0+33b2469
+torchfile==0.1.0
+torchmetrics==0.11.0
+torchvision==0.10.0
+tornado @ file:///tmp/build/80754af9/tornado_1606942317143/work
+tqdm==4.64.0
+traitlets==5.8.1
+triton==2.1.0
+ttach==0.0.3
+typed-ast==1.5.4
+typing-extensions==4.5.0
+typing-inspect==0.8.0
+ujson==5.7.0
+urllib3 @ file:///croot/urllib3_1680254681959/work
+uvicorn==0.20.0
+uvloop==0.17.0
+virtualenv==20.14.1
+visdom==0.1.8.9
+watchfiles==0.18.1
+websocket-client==1.3.3
+websockets==10.4
+Werkzeug @ file:///croot/werkzeug_1679489717957/work
+wrapt==1.14.1
+xformers==0.0.22.post4
+yacs==0.1.8
+yapf==0.32.0
+yarl==1.8.2
+zipp @ file:///croot/zipp_1672387121353/work

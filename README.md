@@ -13,19 +13,23 @@ By [Shouyue Liu](https://github.com/iAaronLau), Jinkui Hao, Yanwu Xu, Huazhu Fu,
 ### Contents
 1. [Requirements](#Requirements)
 2. [Dataset](#Dataset)
-3. [Training&Testing](#Start_training_and_evaluation)
-4. [Notes](#Citing)
+3. [Training&Testing](#Training&Testing)
+4. [Citing](#Citing)
 
 
 ### Requirements
 
 1. System Requirements:
-	- `cd xx`
-	- `conda env create -f environment.yml`
+	- NVIDIA GPUs, CUDA supported.
+	- Ubuntu 20.04 workstation or server
+	- PyTorch 2.0 
+	- Python 3.9
+	- Git
 
 2. Installation:
-	- `cd xx`
-	- `conda env create -f environment.yml`
+   - `git clone https://github.com/iAaronLau/Polar-Net-Pytorch.git`
+   - `cd ./Polar-Net-Pytorch`
+   - `conda env create -f environment.yaml`
 
 
 ### Dataset
@@ -49,7 +53,7 @@ You can also change the file structure. Note that you need to change the data pr
 
 Due to the method need the multiple inputs, i.e., SVC, DVC and choriocapillaris, so the most important thing is that you need specify the filter words for file name of SVC, DVC, and choriocapillaris. Please make sure the three filter words are in the right order.
 
-### Start training and evaluation
+### Training&Testing
 You can change the experiment parameters by modifying the configuration file, Config.py,  and then come to train the model.
 
 ```
