@@ -1,8 +1,8 @@
 
-## [Polar-Net: A Clinical-Friendly Model for Alzheimer’s Disease Detection in OCTA Images](https://arxiv.org/abs/xxxx) (MICCAI 2023)
+## [Polar-Net: A Clinical-Friendly Model for Alzheimer’s Disease Detection in OCTA Images](https://arxiv.org/abs/2311.06009) (MICCAI 2023)
 [![DOI](https://img.shields.io/badge/DOI-10.1007/978--3--031--43990--2__57-darkyellow)](https://doi.org/10.1007/978-3-031-43990-2_57)
 [![SharedIt](https://img.shields.io/badge/SharedIt-rdcu.be/dnwMc-darkyellow.svg)](https://rdcu.be/dnwMc)
-[![arXiv](https://img.shields.io/badge/arXiv-xxxx-darkyellow.svg)](https://arxiv.org/abs/xxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-2311.06009-darkyellow.svg)](https://arxiv.org/abs/2311.06009)
 
 By [Shouyue Liu](https://github.com/iAaronLau), [Jinkui Hao](https://scholar.google.com/citations?user=XQqCo8QAAAAJ&hl=zh-CN), [Yanwu Xu](https://scholar.google.com/citations?user=0jP8f7sAAAAJ&hl=zh-CN), [Huazhu Fu](https://scholar.google.com/citations?user=jCvUBYMAAAAJ&hl=zh-CN), [Xinyu Guo](https://github.com/Mr-Guowang), [Jiang Liu](https://scholar.google.com/citations?user=NHt3fUcAAAAJ&hl=zh-CN), [Yalin Zheng](https://scholar.google.com/citations?user=nKCHXTAAAAAJ&hl=zh-CN), [Yonghuai Liu](https://scholar.google.com/citations?user=8J-qVlQAAAAJ&hl=zh-CN), [Jiong Zhang](https://scholar.google.com/citations?user=UJKsxKkAAAAJ&hl=zh-CN), and [Yitian Zhao](https://scholar.google.com/citations?user=8mULu94AAAAJ&hl=zh-CN)
 
@@ -11,19 +11,25 @@ By [Shouyue Liu](https://github.com/iAaronLau), [Jinkui Hao](https://scholar.goo
 
 
 ### Contents
-1. [Requirements](#Requirements)
-2. [Dataset](#Dataset)
-3. [Training&Testing](#Training&Testing)
-4. [Citing](#Citing)
+1. [Abstract](#Abstract)
+2. [Requirements](#Requirements)
+3. [Dataset](#Dataset)
+4. [Training&Testing](#Training&Testing)
+5. [Citing](#Citing)
 
+
+### Abstract
+
+Optical Coherence Tomography Angiography (OCTA) is a promising tool for detecting Alzheimer's disease (AD) by imaging the retinal microvasculature. Ophthalmologists commonly use region-based analysis, such as the ETDRS grid, to study OCTA image biomarkers and understand the correlation with AD. However, existing studies have used general deep computer vision methods, which present challenges in providing interpretable results and leveraging clinical prior knowledge. To address these challenges, we propose a novel deep-learning framework called Polar-Net. Our approach involves mapping OCTA images from Cartesian coordinates to polar coordinates, which allows for the use of approximate sector convolution and enables the implementation of the ETDRS grid-based regional analysis method commonly used in clinical practice. Furthermore, Polar-Net incorporates clinical prior information of each sector region into the training process, which further enhances its performance. Additionally, our framework adapts to acquire the importance of the corresponding retinal region, which helps researchers and clinicians understand the model's decision-making process in detecting AD and assess its conformity to clinical observations. Through evaluations on private and public datasets, we have demonstrated that Polar-Net outperforms existing state-of-the-art methods and provides more valuable pathological evidence for the association between retinal vascular changes and AD. In addition, we also show that the two innovative modules introduced in our framework have a significant impact on improving overall performance.
 
 ### Requirements
 
 1. System Requirements:
 	- NVIDIA GPUs, CUDA supported.
 	- Ubuntu 20.04 workstation or server
-	- PyTorch 2.0 
+	- Anaconda environment
 	- Python 3.9
+	- PyTorch 2.0 
 	- Git
 
 2. Installation:
